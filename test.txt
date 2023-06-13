@@ -1,5 +1,5 @@
 Hello world!
-Some changes
+Some changes with with this string
 commit-1
 commit-2
 commit-3
